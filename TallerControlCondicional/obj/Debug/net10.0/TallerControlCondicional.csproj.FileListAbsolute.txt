@@ -1,0 +1,15 @@
+/workspaces/taller-control-condicional/TallerControlCondicional/bin/Debug/net10.0/TallerControlCondicional
+/workspaces/taller-control-condicional/TallerControlCondicional/bin/Debug/net10.0/TallerControlCondicional.deps.json
+/workspaces/taller-control-condicional/TallerControlCondicional/bin/Debug/net10.0/TallerControlCondicional.runtimeconfig.json
+/workspaces/taller-control-condicional/TallerControlCondicional/bin/Debug/net10.0/TallerControlCondicional.dll
+/workspaces/taller-control-condicional/TallerControlCondicional/bin/Debug/net10.0/TallerControlCondicional.pdb
+/workspaces/taller-control-condicional/TallerControlCondicional/obj/Debug/net10.0/TallerControlCondicional.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/taller-control-condicional/TallerControlCondicional/obj/Debug/net10.0/TallerControlCondicional.AssemblyInfoInputs.cache
+/workspaces/taller-control-condicional/TallerControlCondicional/obj/Debug/net10.0/TallerControlCondicional.AssemblyInfo.cs
+/workspaces/taller-control-condicional/TallerControlCondicional/obj/Debug/net10.0/TallerControlCondicional.csproj.CoreCompileInputs.cache
+/workspaces/taller-control-condicional/TallerControlCondicional/obj/Debug/net10.0/TallerControlCondicional.sourcelink.json
+/workspaces/taller-control-condicional/TallerControlCondicional/obj/Debug/net10.0/TallerControlCondicional.dll
+/workspaces/taller-control-condicional/TallerControlCondicional/obj/Debug/net10.0/refint/TallerControlCondicional.dll
+/workspaces/taller-control-condicional/TallerControlCondicional/obj/Debug/net10.0/TallerControlCondicional.pdb
+/workspaces/taller-control-condicional/TallerControlCondicional/obj/Debug/net10.0/TallerControlCondicional.genruntimeconfig.cache
+/workspaces/taller-control-condicional/TallerControlCondicional/obj/Debug/net10.0/ref/TallerControlCondicional.dll
