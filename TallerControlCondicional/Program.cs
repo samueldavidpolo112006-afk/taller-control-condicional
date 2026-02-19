@@ -6,18 +6,7 @@ class Program
     {
         Console.WriteLine("=== TALLER CONTROL CONDICIONAL ===");
 
-        Console.Write("Ingrese su edad: ");
-        int edad = int.Parse(Console.ReadLine());
-
-        if (edad >= 18)
-        {
-            Console.WriteLine("Eres mayor de edad.");
-        }
-        else
-        {
-            Console.WriteLine("Eres menor de edad.");
-        }
-
+  
         Console.Write("Ingrese un número: ");
         int numero = int.Parse(Console.ReadLine());
 
